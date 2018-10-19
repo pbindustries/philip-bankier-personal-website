@@ -1,13 +1,12 @@
 {
-  "name": "hackathon-starter",
-  "version": "5.1.1",
-  "description": "A boilerplate for Node.js web applications",
+  "name": "philip-bankier-personal-site",
+  "version": "1.0.0",
+  "description": "My personal site",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/pbindustries/philip-bankier-personal-website.git"
   },
-  "author": "Sahat Yalkabov",
-  "license": "MIT",
+  "author": "Philip Bankier",
   "scripts": {
     "postinstall": "npm rebuild node-sass",
     "start": "node app.js",
